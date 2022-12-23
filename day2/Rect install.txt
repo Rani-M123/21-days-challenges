@@ -1,0 +1,6 @@
+Rect install
+auto tag install
+Create repositories
+push the code to repositories
+create components
+
