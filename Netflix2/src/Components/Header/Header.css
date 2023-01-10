@@ -1,0 +1,26 @@
+.our-story-header {
+  padding: 0rem 1rem;
+  height: 10px;
+}
+
+.ui-label-text {
+  margin-left: 900px;
+  margin-top: -300px;
+}
+
+.select-arrow {
+  margin-left: 1020px;
+  margin-top: -20px;
+  box-shadow: 10px;
+}
+
+.signin {
+  margin-left: 1100px;
+  margin-top: -20px;
+}
+
+.screen-reader-text {
+  fill: #e50914;
+  line-height: normal;
+  font-size: large;
+}/*# sourceMappingURL=Header.css.map */
