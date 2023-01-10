@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/material": "^5.11.2",
+    "bootstrap-sass": "^3.4.3",
+    "react-axios": "^2.0.6",
+    "react-hook-form": "^7.41.5",
+    "react-icons": "^4.7.1",
+    "react-router-dom": "^6.6.1",
+    "router-dom": "^2.2.9"
+  }
+}
